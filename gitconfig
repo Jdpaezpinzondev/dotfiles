@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jdpaezpinzon@gmail.com
+	name = JuanDavid PaezPinzon jdpaezpinzon@gmail.com
